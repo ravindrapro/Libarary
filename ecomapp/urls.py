@@ -21,4 +21,5 @@ urlpatterns = [
 ]
 
 def func(a,b):
+    print("Hello")
     return "Hi Hello"
