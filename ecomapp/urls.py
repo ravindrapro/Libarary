@@ -20,5 +20,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
 ]
 
-def func():
+def func(a,b):
     return "Hi Hello"
